@@ -1,0 +1,18 @@
+{
+	"libs" : [
+		"browser",
+		"jquery",
+    "react",
+    "ecma5",
+    "ecma6",
+	],
+  "ecmaVersion" : 6,
+	"loadEagerly": [ "js/*.js", "*.js" ],
+	"plugins" : {
+    "doc_comment" : null,
+		"commonjs" : {},
+		"node" : {},
+		"requirejs" : {},
+		"node_resolve" : {}
+	}
+}
