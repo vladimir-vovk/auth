@@ -13,5 +13,5 @@ The application allows you to create and authenticate users using Firebase as a 
 3. Run this project with
 
 ```
-react-native run_ios
+react-native run-ios
 ```
